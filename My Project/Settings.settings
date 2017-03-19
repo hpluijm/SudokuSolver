@@ -1,0 +1,96 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="_blnCandidates" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="_bgColour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DodgerBlue</Value>
+    </Setting>
+    <Setting Name="_borderColour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SteelBlue</Value>
+    </Setting>
+    <Setting Name="_solveColour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DimGray</Value>
+    </Setting>
+    <Setting Name="_clueColour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="_userColour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DodgerBlue</Value>
+    </Setting>
+    <Setting Name="_CandidateFontSize" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">7.2</Value>
+    </Setting>
+    <Setting Name="_CandidateFont" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Verdana</Value>
+    </Setting>
+    <Setting Name="_SolvedFont" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tahoma</Value>
+    </Setting>
+    <Setting Name="_SolvedFontSize" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="_EnabledSolvers" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1:True:Naked Single,1:True:Hidden Single,1:True:Locked Candidates,2:True:Naked Pair,2:True:Naked Triple,2:True:Naked Quad,3:True:Hidden Pair,3:True:Hidden Triple,3:True:Hidden Quad,3:True:X-Wing,3:True:Swordfish,3:True:Jellyfish,4:True:Colour Wrap,4:True:Colour Trap,4:True:XY Wing,4:True:XYZ Wing,4:True:Brute Force</Value>
+    </Setting>
+    <Setting Name="_PlaySounds" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="_nakedColour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DarkBlue</Value>
+    </Setting>
+    <Setting Name="_ShowNS" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="_defaultSolvers" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1:True:Naked Single,1:True:Hidden Single,1:True:Locked Candidates,2:True:Naked Pair,2:True:Naked Triple,2:True:Naked Quad,3:True:Hidden Pair,3:True:Hidden Triple,3:True:Hidden Quad,3:True:X-Wing,3:True:Swordfish,3:True:Jellyfish,4:True:Colour Wrap,4:True:Colour Trap,4:True:XY Wing,4:True:XYZ Wing,4:True:Brute Force</Value>
+    </Setting>
+    <Setting Name="_pColour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="_nColour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="_cColour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="_rColour" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="_blnManualInputSuggest" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="_GenClassicDifficulty" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="_GenSamuraiDifficulty" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="_GenClassicSymmetry" Type="System.String" Scope="User">
+      <Value Profile="(Default)">31</Value>
+    </Setting>
+    <Setting Name="_GenSamuraiSymmetry" Type="System.String" Scope="User">
+      <Value Profile="(Default)">31</Value>
+    </Setting>
+    <Setting Name="_intMaxGenerate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="_GeneratePriority" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="_blnGeneratePuzzleSaveSolution" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="_intTipoftheDay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="_blnShowTips" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="_UniqueSolvers" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1:True:Naked Single,1:True:Hidden Single,1:True:Locked Candidates,2:True:Naked Pair,2:True:Naked Triple,2:True:Naked Quad,3:True:Hidden Pair,3:True:Hidden Triple,3:True:Hidden Quad,4:True:Brute Force</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
